@@ -1,0 +1,8 @@
+"job_title","total_records","p25_salary","median_salary","p75_salary","p90_salary"
+"Data Architect",11,148900.0,180000.0,200670.0,213120.0
+"Data Science Manager",12,142285.0,155750.0,178050.0,235020.0
+"Data Engineer",132,70040.0,105500.0,154600.0,198800.0
+"Data Scientist",143,54724.0,103691.0,140850.0,197020.0
+"Data Analyst",97,62000.0,90320.0,116150.0,135640.0
+"Machine Learning Engineer",41,51064.0,87932.0,150000.0,192600.0
+"Research Scientist",16,62176.0,76264.0,105000.0,165721.0
